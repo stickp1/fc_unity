@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8e2aa377a8849b943baa50a03cd46c71
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ZORGEOUS
+  fontNames:
+  - ZORGEOUS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 418d0993cdc93254aacd16e35d7f2dff, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
