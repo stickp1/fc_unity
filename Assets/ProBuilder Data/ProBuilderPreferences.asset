@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 680703436, guid: 4f0627da958b4bb78c260446066f065f, type: 3}
+  m_Name: ProBuilderPreferences
+  m_EditorClassIdentifier: 
+  m_Bool_keys:
+  - pbGenerateUV2PerObject
+  - pbIconGUI
+  - pb_SmoothingGroupEditor::m_PreviewDither
+  - pb_SmoothingGroupEditor::m_ShowPreview
+  - pb_SmoothingGroupEditor::m_DrawNormals
+  - pbEnableBackfaceSelection
+  m_Int_keys:
+  - pbDefaultEditLevel
+  - pbDefaultSelectionMode
+  - pb_GIWorkflowMode
+  - pbHandleAlignment
+  - pbDragSelectMode
+  - pbVertexColorTool
+  - pbRectSelectMode
+  m_Float_keys:
+  - pbEditorScroll.x
+  - pbEditorScroll.y
+  - pb_SmoothingGroupEditor::m_PreviewOpacity
+  - pb_SmoothingGroupEditor::m_NormalsSize
+  - pbBevelAmount
+  m_String_keys:
+  - pbCurrentMaterialPalette
+  - pbVertexColorPrefs2
+  - pbVertexColorPrefs0
+  - pbVertexColorPrefs4
+  - pb_VertexColorPalette::lastAssignedColorPalette
+  m_Color_keys: []
+  m_Material_keys: []
+  m_Bool_values: 000000010001
+  m_Int_values: 00000000010000000000000000000000000000000000000001000000
+  m_Float_values:
+  - 0
+  - 0
+  - 0.561
+  - 0.43661955
+  - 0.8463463
+  m_String_values:
+  - Assets/ProBuilder Data/Default Material Palette.asset
+  - RGBA(0.849, 0.849, 0.849, 1.000)
+  - RGBA(0.904, 0.906, 0.713, 1.000)
+  - RGBA(0.187, 0.340, 0.187, 1.000)
+  - Assets/ProBuilder Data/Default Color Palette.asset
+  m_Color_values: []
+  m_Material_values: []
